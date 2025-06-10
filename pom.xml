@@ -136,7 +136,11 @@
                 <version>3.4.2</version>
                 <configuration>
                     <to>
-                        <image>rushikanth/${project.artifactId}:v6</image>
+                        <image>paps0903/${project.artifactId}:v6</image>
+                        <auth>
+                                 <username>paps0903</username>
+                                 <password>dckr_pat_LtMM336LL4cVNX-RJt-ly_t7dUA</password>
+                        </auth>
                     </to>
                 </configuration>
             </plugin>
