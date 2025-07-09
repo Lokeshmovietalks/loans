@@ -120,7 +120,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>rushikanth/${project.artifactId}</name>
+                        <name>paps0903/${project.artifactId}</name>
                     </image>
                     <excludes>
                         <exclude>
