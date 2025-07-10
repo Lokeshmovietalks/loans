@@ -120,7 +120,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>paps0903/${project.artifactId}</name>
+                        <name>876738714078.dkr.ecr.ap-southeast-2.amazonaws.com/loans:${version}</name>
                     </image>
                     <excludes>
                         <exclude>
@@ -136,11 +136,7 @@
                 <version>3.4.2</version>
                 <configuration>
                     <to>
-                        <image>paps0903/${project.artifactId}</image>
-                        <auth>
-                                 <username>paps0903</username>
-                                 <password>dckr_pat_LtMM336LL4cVNX-RJt-ly_t7dUA</password>
-                        </auth>
+                        <image>876738714078.dkr.ecr.ap-southeast-2.amazonaws.com/loans:${version}</image>
                     </to>
                 </configuration>
             </plugin>
